@@ -1,3 +1,15 @@
+TASK: Repaint the attached image in place. This is not a new composition — it is a
+paint-by-numbers stencil, and you are colouring inside its existing shapes. Every
+coloured rectangle in the stencil already exists at its final position and final size.
+Your job is to give each rectangle a material, a texture and lighting. Your job is NOT
+to move it, resize it, merge it, split it, or add new ones.
+
+{{GEOMETRY_MANIFEST}}
+
+# THEME:
+
+Carved stone architecture, steampunk copper pipes, brass gears. Add lush overgrowth and vivid lighting.
+
 # LAYOUT MAPPING:
 
 Follow the exact structural layout grid from the uploaded png:
