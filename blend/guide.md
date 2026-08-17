@@ -27,7 +27,7 @@
 
 ## layout
 Nothing special, layout your prop
-Scale camera to fit
+Camera orthographic scale to fit usually 7-10 range
 
 ## Check-list
 Before animating, render out a single frame, ensure it looks good ingame.
